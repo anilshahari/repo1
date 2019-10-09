@@ -1,0 +1,11 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 7AC9-E877
+
+ Directory of E:\myProjectGit
+
+09-10-2019  09:48    <DIR>          .
+09-10-2019  09:48    <DIR>          ..
+09-10-2019  09:46               331 test1.txt
+09-10-2019  09:48                 0 test2.txt
+               2 File(s)            331 bytes
+               2 Dir(s)  175,002,439,680 bytes free
